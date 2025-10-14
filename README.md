@@ -40,8 +40,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduaina&show_icons=true&locale=en&layout=compact" alt="eduaina" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduaina&show_icons=true&locale=en" alt="eduaina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduaina&" alt="eduaina" /></p>
