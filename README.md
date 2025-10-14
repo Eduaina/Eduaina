@@ -1,4 +1,4 @@
-<div><h1 align="center">Hi 👋, I'm Eduaina</h1> <br> <i>(Err-Do-Ahh-Inna)</i></div>
+<h1 align="center">Hi 👋, I'm Eduaina <p><br> <i>(Err-Do-Ahh-Inna)</i></p></h1> 
 <h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduaina" alt="eduaina" /></a> </p>
