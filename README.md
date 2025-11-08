@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduaina <br> <i>(Err-Do-Ahh-Inna)</i></h1> 
 <h3 align="center">A passionate Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduaina" alt="eduaina" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduaina" alt="eduaina" /></a> </p> -->
 
 - 🔭 I’m currently working on **Building JavaScript/React web applications**
 
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduaina&show_icons=true&locale=en" alt="eduaina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduaina&" alt="eduaina" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduaina&" alt="eduaina" /></p> -->
