@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻 All of my projects are available at [eduaina.com]([eduaina.com](https://eduainacom.vercel.app/))
+- 👨‍💻 All of my projects are available at [eduaina.com]((https://eduainacom.vercel.app/))
 
 - 📝 I regularly write articles on [https://medium.com/@eduaighalo22](https://medium.com/@eduaighalo22)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eduaighalo22@gmail.com**
 
-- 📄 Know about my experiences [eduaina.com]([eduaina.com](https://eduainacom.vercel.app/))
+- 📄 Know about my experiences [eduaina.com]((https://eduainacom.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
