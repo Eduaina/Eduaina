@@ -35,7 +35,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduaina&show_icons=true&locale=en" alt="eduaina" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduaina&" alt="eduaina" /></p>
