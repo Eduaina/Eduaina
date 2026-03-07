@@ -36,4 +36,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Eduaina&theme=merko&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Eduaina&theme=gruvbox&hide_border=false)
