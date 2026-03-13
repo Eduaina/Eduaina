@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [eduaina.com](https://eduainacom.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/edua_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edua_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eduaina-ighalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduaina-ighalo" height="30" width="40" /></a>
