@@ -7,8 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [eduaina.com](https://eduainacom.vercel.app/)
 
-- 📝 Checkout my [CV]([https://medium.com/@eduaighalo22](https://drive.google.com/file/d/1Dt7s41tx1Hvgmn3wiPDJKDqkjmjp8yBb/view))
-- 
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1Dt7s41tx1Hvgmn3wiPDJKDqkjmjp8yBb/view)
+
 - 📝 I regularly write articles on [medium](https://medium.com/@eduaighalo22)
 
 - 💬 Ask me about **Web development and Understanding JavaScript logic and It's frameworks**
