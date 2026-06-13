@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eduaighalo22@gmail.com**
 
-- 📄 Know about my experiences [eduaina.com](https://eduaina-ighalo-intro-v6-pilot.vercel.app/index.html/)
+- 📄 Know about my experiences [eduaina.com](https://eduaina-ighalo-intro-v6-pilot.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 
