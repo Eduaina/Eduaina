@@ -9,7 +9,7 @@
 
 - 📝 Checkout my [CV](https://drive.google.com/file/d/1Dt7s41tx1Hvgmn3wiPDJKDqkjmjp8yBb/view)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@eduaighalo22)
+- 📝 I write articles on [medium](https://medium.com/@eduaighalo22) and [hashnode](https://hashnode.com/@Eduaina)
 
 - 💬 Ask me about **Web development and Understanding JavaScript logic and It's frameworks**
 
