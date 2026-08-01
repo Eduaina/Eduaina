@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduaina! <br> <i></i></h1> 
+<h1 align="center">Hi 👋, <i>I'm Eduaina!</i> <br> </h1> 
 
 <h3 align="center">A Software Developer and Documentation Specialist</h3>
 
