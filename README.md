@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  <i>Eduaina</i>!<br> </h1> 
 
-<h3 align="center">A Software Developer and Documentation Specialist</h3>
+<h3 align="center">A Software Developer and Technical Documentation Specialist</h3>
 
 - 🔭 I’m currently working on **Building JavaScript/React web applications**
 
