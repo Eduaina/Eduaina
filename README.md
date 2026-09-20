@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [eduaina.com](https://eduainacom.vercel.app/)
 
+- 👨‍💻 All of my written projects are available at [eduainawrites.com](https://eduainacom.vercel.app/)
+
 - 📝 Checkout my [CV](https://drive.google.com/file/d/1Dt7s41tx1Hvgmn3wiPDJKDqkjmjp8yBb/view)
 
 - 📝 I write articles on [medium](https://medium.com/@eduaighalo22) and [hashnode](https://hashnode.com/@Eduaina)
