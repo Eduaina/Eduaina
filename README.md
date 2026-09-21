@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻 All of my projects are available at [eduaina.com](https://eduainacom.vercel.app/)
+- 👨‍💻 All of my projects are    available at [eduaina.com](https://eduainacom.vercel.app/)
 
 - 👨‍💻 All of my written projects are available at [eduainawrites.com](https://eduainacom.vercel.app/)
 
